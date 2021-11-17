@@ -1,0 +1,35 @@
+Quiz questions
+1.
+To print:
+    *
+    **
+Options:-  a. System.out.printIn("*\n**");
+Options:-  b. System.out.printIn("**\n*");
+Options:-  c. System.out.printIn("***\n");
+Correct Answer is :- a
+
+2.
+To Calculate : (a*b)/(a-b)  a= 10, b=5
+Options
+A. int ans = a*b/a-b;
+B. int ans = (a*b)/(a-b);
+Correct Answer is :-  B
+solution for A :- left to right goes in java so it will 10*5/10-5=0
+solution for B :-(10*5)/(10-5)=10 
+
+
+3.Multiple choice question.
+if 3 is an even number , print "Bazinga"
+
+A. if(3%2==0){
+    System.out.println("Bazinga");
+}
+
+B. if(3%2==0)
+    System.out.println("Bazinga");
+
+C. if(3%2==0);
+    System.out.println("Bazinga");    
+
+
+  correct answer:- option A and B  
